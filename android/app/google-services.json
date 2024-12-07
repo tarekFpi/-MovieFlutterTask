@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385556640907",
+    "project_id": "fir-auth-694fd",
+    "storage_bucket": "fir-auth-694fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385556640907:android:ac7dd9efb6e6e30c37508e",
+        "android_client_info": {
+          "package_name": "com.example.basie_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385556640907-sm11nnk6nhnvo2a0ov3vbd7rmsk9b4f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZa2AaWcNKQd7JqQE1xA_i6OHiST9ttMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385556640907-sm11nnk6nhnvo2a0ov3vbd7rmsk9b4f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
