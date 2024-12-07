@@ -1,4 +1,4 @@
-# basie_project
+# Movie App Flutter
 
 A new Flutter project.
 
